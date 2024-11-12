@@ -1,8 +1,19 @@
-# React + Vite
+# E-commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-featured e-commerce website built with [your tech stack, e.g., React, Node.js, Google Firebase].
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Product browsing and search
+- User authentication and profiles
+- Shopping cart and checkout process
+- Order history and tracking
+
+## Tech Stack
+
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, 
+- **Database**: Google Firebase
+
+## Project Link
+- Link : https://shoppicart-ecommerce.vercel.app/
